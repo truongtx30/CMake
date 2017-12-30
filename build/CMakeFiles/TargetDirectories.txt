@@ -1,0 +1,7 @@
+/home/truongtx/project/build/CMakeFiles/install.dir
+/home/truongtx/project/build/CMakeFiles/list_install_components.dir
+/home/truongtx/project/build/CMakeFiles/rebuild_cache.dir
+/home/truongtx/project/build/CMakeFiles/module1.dir
+/home/truongtx/project/build/CMakeFiles/install/strip.dir
+/home/truongtx/project/build/CMakeFiles/install/local.dir
+/home/truongtx/project/build/CMakeFiles/edit_cache.dir

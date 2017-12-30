@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/Module1.hpp
+iostream
+-
+map
+-
+iterator
+-
+
+/home/truongtx/project/src/main.cpp
+iostream
+-
+Module1.hpp
+/home/truongtx/project/src/Module1.hpp
+
+/home/truongtx/project/src/module1.cpp
+Module1.hpp
+/home/truongtx/project/src/Module1.hpp
+
